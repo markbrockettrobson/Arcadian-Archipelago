@@ -16,7 +16,7 @@ date: 2026-02-22
 
 # Court Magister Valerian Kade
 
-
+![Court-Magister-Valerian-Kade.png](../../../Artwork/NPC/Court-Magister-Valerian-Kade.png)
 
 **Ancestry:** Human (Taldan)  
 **Class/Profession:** Summoner (Azlanti Specialist)  

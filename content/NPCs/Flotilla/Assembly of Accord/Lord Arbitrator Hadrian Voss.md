@@ -17,7 +17,7 @@ date: 2026-02-17
 
 # Lord Arbitrator Hadrian Voss
 
-
+![Lord-Arbitrator-Hadrian-Voss.png](../../../Artwork/NPC/Lord-Arbitrator-Hadrian-Voss.png)
 
 **Ancestry:** Human  
 **Class/Profession:** Cleric of Abadar  

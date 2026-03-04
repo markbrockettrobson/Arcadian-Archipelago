@@ -16,7 +16,7 @@ date: 2026-02-17
 
 # Magister Tertius Vael
 
-
+![Magister-Tertius-Vael.png](../../../Artwork/NPC/Magister-Tertius-Vael.png)
 
 **Ancestry:** Human (Azlanti heritage)  
 **Class/Profession:** Wizard (Arcane Researcher)

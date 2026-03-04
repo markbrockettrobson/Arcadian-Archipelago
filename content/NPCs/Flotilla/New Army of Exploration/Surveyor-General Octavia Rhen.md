@@ -17,7 +17,7 @@ date: 2026-02-22
 
 # Surveyor-General Octavia Rhen
 
-
+![Surveyor-General-Octavia-Rhen.png](../../../Artwork/NPC/Surveyor-General-Octavia-Rhen.png)
 
 **Ancestry:** Human (Taldan)  
 **Class/Profession:** Fighter/Military Officer  

@@ -15,7 +15,7 @@ date: 2026-02-22
 
 # Ambassador-Envoy Cassius Orell
 
-
+![Ambassador-Envoy-Cassius-Orell.png](../../../Artwork/NPC/Ambassador-Envoy-Cassius-Orell.png)
 
 **Ancestry:** Human (Taldan)
 **Alignment:** Lawful Neutral  

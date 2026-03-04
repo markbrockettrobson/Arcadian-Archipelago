@@ -17,7 +17,7 @@ date: 2026-02-22
 
 # Armiger-Magistrate Corvain Thorn
 
-
+![Armiger-Magistrate-Corvain-Thorn.png](../../../Artwork/NPC/Armiger-Magistrate-Corvain-Thorn.png)
 
 **Ancestry:** Human  
 **Class/Profession:** Hellknight (Tyrant Champion of Asmodeus)
