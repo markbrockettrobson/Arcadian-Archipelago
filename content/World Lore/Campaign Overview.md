@@ -30,6 +30,10 @@ Now the fleet has finally set sail, carrying not just supplies and healers, but 
 * **The Assembly of the Flotilla**: Six months of tense negotiations and bureaucratic procedures leading to the current expedition.
 * **[World Lore/Arcadian Interference Phenomenon](Arcadian%20Interference%20Phenomenon.md)**: A known magical effect that disrupts long-range teleportation and communication.
 
+## Route
+
+![Route.png](Route.png)
+
 ## Timelines
 
 * **[World Lore/Timeline - Lead-Up to the Expedition](Timeline%20-%20Lead-Up%20to%20the%20Expedition.md)**: Timeline of events leading up to the expedition launch.
