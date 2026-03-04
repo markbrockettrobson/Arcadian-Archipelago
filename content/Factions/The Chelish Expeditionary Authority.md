@@ -80,7 +80,7 @@ The merchant factions view the Chelish as rivals using legal technicalities to s
 
 ## The Gray Corsair Problem
 
-If other factions view the Chelish with frustration or suspicion, *The Gray Corsairs* regard them with open hostility. The arrival of Andoran's democratic freedom fighters was a direct response to Cheliax's participation in the expedition a calculated move to ensure the archipelago does not fall under imperial rule or, worse, become a new frontier for the slave trade.
+If other factions view the Chelish with frustration or suspicion, [The Gray Corsairs](The%20Gray%20Corsairs.md) regard them with open hostility. The arrival of Andoran's democratic freedom fighters was a direct response to Cheliax's participation in the expedition a calculated move to ensure the archipelago does not fall under imperial rule or, worse, become a new frontier for the slave trade.
 
 The ideological divide is stark and unbridgeable. Where Cheliax speaks of "proper governance" and "civilized administration," the Gray Corsairs hear code for colonial exploitation. Where the Gray Corsairs demand guarantees against imperial control, the Chelish delegation sees dangerous revolutionary rhetoric that threatens lawful order.
 

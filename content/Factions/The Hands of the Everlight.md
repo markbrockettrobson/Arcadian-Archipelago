@@ -36,6 +36,6 @@ Despite being the emotional and moral catalyst for the expedition, the Hands of 
 
 ### **Allies**
 
-While the Hands of the Everlight's frustration extends to nearly every faction in the flotilla, they have found common cause with *The Gray Corsairs* on matters of humanitarian principle. Both factions prioritize the welfare of the archipelago's people over political maneuvering, and both view colonial exploitation with deep suspicion.
+While the Hands of the Everlight's frustration extends to nearly every faction in the flotilla, they have found common cause with [The Gray Corsairs](The%20Gray%20Corsairs.md) on matters of humanitarian principle. Both factions prioritize the welfare of the archipelago's people over political maneuvering, and both view colonial exploitation with deep suspicion.
 
 The alliance is not without friction the Hands' religious pacifism doesn't always align with the Gray Corsairs' willingness to use force against slavers and tyrants. High Healer Valerius has expressed discomfort with what she calls the Corsairs' "righteous violence," even when directed at clear injustice. However, both groups recognize they share more in common with each other than with factions that view the archipelago primarily as commercial or political opportunity.
