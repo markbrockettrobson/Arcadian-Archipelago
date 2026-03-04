@@ -29,7 +29,7 @@ date: 2026-02-22
 
 ## Personality
 
-Rhen is methodical, disciplined, and increasingly frustrated. She genuinely believes that Taldor can reclaim its legacy as a nation of explorers without repeating the sins of colonial conquest. To her, exploration is about discovery, mapping, and understanding—not domination. She has stated publicly that "the Armies of Exploration became armies of conquest, and that's where we lost our way."
+Rhen is methodical, disciplined, and increasingly frustrated. She genuinely believes that Taldor can reclaim its legacy as a nation of explorers without repeating the sins of colonial conquest. To her, exploration is about discovery, mapping, and understanding - not domination. She has stated publicly that "the Armies of Exploration became armies of conquest, and that's where we lost our way."
 
 In council meetings, she is practical. She focuses on operational realities: navigation, supply lines, weather patterns, and risk assessment. When others engage in lengthy political debates, she has been observed making detailed notes on charts, clearly waiting for the discussion to return to more actionable matters.
 

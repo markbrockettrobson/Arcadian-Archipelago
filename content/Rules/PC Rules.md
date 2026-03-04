@@ -114,10 +114,10 @@ Try to avoid exotic combinations of ancestries and heritages that stretch believ
 
 ## Technology & Sci-Fi
 
-This is a fantasy campaign — **no sci-fi technology**. Specifically:
+This is a fantasy campaign - **no sci-fi technology**. Specifically:
 
 * **No laser guns, energy weapons, or futuristic equipment.**
-* **Early firearms only** (flintlock-era). Reskins are available if you want a different aesthetic — just ask.
+* **Early firearms only** (flintlock-era). Reskins are available if you want a different aesthetic - just ask.
 * **Android** ([Archives of Nethys](https://2e.aonprd.com/Ancestries.aspx?ID=27)): the mechanics are interesting but the aesthetic doesn't fit. If you like what Android does mechanically, bring it up and we can work out a reskin together.
 
 ## Retraining and Character Changes
