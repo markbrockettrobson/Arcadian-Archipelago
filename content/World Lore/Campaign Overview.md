@@ -32,4 +32,4 @@ Now the fleet has finally set sail, carrying not just supplies and healers, but 
 
 ## Timelines
 
-* ***World Lore/Timeline - Lead-Up to the Expedition***: Timeline of events leading up to the expedition launch.
+* **[World Lore/Timeline - Lead-Up to the Expedition](Timeline%20-%20Lead-Up%20to%20the%20Expedition.md)**: Timeline of events leading up to the expedition launch.
