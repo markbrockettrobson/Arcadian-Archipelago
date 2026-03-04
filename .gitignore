@@ -1,0 +1,10 @@
+# Build output and dependencies
+public/
+.quartz/
+.quartz-cache/
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini

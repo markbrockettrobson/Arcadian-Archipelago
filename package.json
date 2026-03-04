@@ -1,0 +1,15 @@
+{
+  "name": "arcadian-archipelago",
+  "version": "1.0.0",
+  "description": "The Arcadian Archipelago - Pathfinder 2e Campaign Public Wiki",
+  "scripts": {
+    "sync-quartz-config": "cp quartz.config.ts .quartz/quartz.config.ts && cp quartz.layout.ts .quartz/quartz.layout.ts",
+    "dev": "npm run sync-quartz-config && cd .quartz && npx quartz build --serve --port 8080 --directory ../content --output ../public",
+    "build": "npm run sync-quartz-config && cd .quartz && npx quartz build --directory ../content --output ../public",
+    "preview": "npm run sync-quartz-config && cd .quartz && npx quartz build --serve --directory ../content --output ../public",
+    "update": "cd .quartz && git pull && npm install"
+  },
+  "keywords": ["obsidian", "campaign", "pathfinder", "quartz"],
+  "author": "",
+  "license": "MIT"
+}
