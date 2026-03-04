@@ -32,8 +32,12 @@ Now the fleet has finally set sail, carrying not just supplies and healers, but 
 
 ## Route
 
-![Route.png](Route.png)
+
 
 ## Timelines
 
 * **[World Lore/Timeline - Lead-Up to the Expedition](Timeline%20-%20Lead-Up%20to%20the%20Expedition.md)**: Timeline of events leading up to the expedition launch.
+
+## Route
+
+![Flotilla Route to the Archipelago.png](Flotilla%20Route%20to%20the%20Archipelago.png)
