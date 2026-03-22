@@ -13,20 +13,33 @@ tags:
 
 We will use the [Free Archetype](https://2e.aonprd.com/Rules.aspx?ID=2751) [Variant Rule](https://2e.aonprd.com/Rules.aspx?ID=2739).
 
- > 
- > The only difference between a normal character and a free archetype character is that the character receives an extra class feat at 2nd level and every even level thereafter that they can use only for archetype feats. You might restrict the free feats to those of a single archetype each character in the group has (for a shared backstory), those of archetypes fitting a certain theme (such as only ones from magical archetypes in a game set in a magic school), or entirely unrestricted if you just want a higher-powered game.
- > 
- > If the group all has the same archetype or draws from a limited list, you might want to ignore the free archetype's normal restriction of selecting a certain number of feats before taking a new archetype. That way a character can still pursue another archetype that also fits their character.
-
 We are not limiting archetypes to a specific theme. You still need to meet all normal archetype feat prerequisites.
 
 ## Starting Level and Wealth
 
 * **Starting Level:** 5th level
 * **Starting Wealth:** 270 gp (standard for 5th level characters)
-* **Starting Items level:** 5th level
+* **Starting Items level cap:** 5th level
 
 consider that you will be on an expedition to a remote and dangerous location, so you should have equipment that reflects that. For example, you might want a tent
+
+## Pathbuilder
+
+I would also like player to keep their character sheets up to date in Pathbuilder and share them with me with the Connect to GM feature. I will not be doing a full review of every feat and item choice i mostly want to trial the encounter manager with Initiative and hp tracking in pathbuilder. It has a cool featurer that lets me see your AC and it live updates as you add buffs and debuffs, which is really helpful for combat and i would like to give it a go.
+
+If anyone doesn't have a pathbuilder account i am more then happy to pay for it and help you set it up, just let me know.
+
+On the pathbuilder menu go to "Connect to GM" and enter the following code to share your character sheet with me. This will allow me to see your character sheet and use it in the encounter manager for combat.
+
+ > 
+ > GM ID: 18018
+ > Password: <Message Mark>
+
+*Feedback on Pathbuilder is also welcome*
+
+## Minis
+
+I would like to order hero forge minis and paint them for the party. Ideally, I want to have them ready for the first session, so I would like to have character concepts ready 4 weeks before the first session. This is not a hard deadline
 
 ## Tone
 
@@ -44,7 +57,7 @@ Links to the major factions and geopolitical context are available in [Factions 
 
 To this end, I want each character to have a connection to one of the major or minor factions. I want to build these ties into the story, so the sooner you share your character concept, the better I can weave it into the narrative. Aim for a connection that still lets your character keep their own agency and make their own choices.
 
-This campaign isolates the characters from their previous lives and connections, so we have more freedom to include a character with a position of nobility without it being a problem for the party.
+This campaign isolates the characters from their previous lives and connections, so we have more freedom to include a character with a position of nobility, wealth without it being a problem for the party.
 
 ### Party cohesion
 
@@ -70,7 +83,7 @@ You can be trusted, but here it is for completeness' sake:
 
 For heritages and adopted ancestries, the same guidelines apply if the base ancestry is allowed, then the heritage or adopted ancestry is also allowed, unless it falls into a restricted category (e.g., undead or construct). Please feel free to discuss it with me.
 
-Try to avoid exotic combinations of ancestries and heritages that stretch believability, for example, a Sylph lizardfolk adopted by Centaur parents. The more unusual the combination, the more it will require careful handling in play to maintain immersion and consistency in NPC reactions. If you have a unique concept that you think could work, please discuss it with me so we can find a way to make it fit within the campaign's world. I would much prefer we create a narrative that makes more sense and reskin the mechanics to fit, rather than trying to shoehorn a concept that doesn't quite fit a moderately serious tone and setting.
+Try to avoid exotic combinations of ancestries and heritages that stretch believability, for example, a Sylph lizardfolk adopted by Centaur parents. If you have a unique concept that you think could work, please discuss it with me so we can find a way to make it fit within the campaign's world. I would much prefer we create a narrative that makes more sense and reskin the mechanics to fit, rather than trying to shoehorn a concept that doesn't quite fit a moderately serious tone and setting.
 
 ## Allowed Classes & Archetypes
 
@@ -78,6 +91,7 @@ Try to avoid exotic combinations of ancestries and heritages that stretch believ
 
 * **All classes are allowed**, including **Exemplar**.
 * For Exemplar specifically: please keep the "fragment of a god" element low-key in play and tone.
+* I am open to playtest classes but would have to review them on a case-by-case basis. If you have a specific playtest class in mind, please share it with me and we can discuss whether it is ready for a campaign. Necromancer would need to be reskinned for example. We would also have to discuss how we move to the realease version of the class when it comes out.
 
 ### Archetypes
 
@@ -144,7 +158,7 @@ If you have a specific item in mind, bring it to me and we can discuss whether i
 
 All common spells are allowed. Uncommon and rare spells require prior approval.
 
-Teleportation and planar travel magic exist in this world, but a known magical phenomenon affects the Archipelago. Teleportation causes slight physical scattering. At very short ranges (including typical in-combat teleportation), characters may feel briefly disoriented but suffer no lasting harm. At longer ranges, teleportation becomes lethally unsafe.
+Teleportation and planar travel magic exist in this world, but a known magical phenomenon affects the Archipelago. Teleportation causes slight physical scattering. At very short ranges (including typical in-combat teleportation), characters may feel briefly disoriented but suffer no mechanical harm. At longer ranges ( 1 mile + ), teleportation becomes lethally unsafe.
 
 This phenomenon is widely known and is one of the main reasons teleportation is not used to reach the Archipelago. It also means teleportation is not a reliable method of travel within the islands.
 

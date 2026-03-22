@@ -36,6 +36,10 @@ date: 2026-02-14
 
 * ---
 
+## Ships
+
+## [The Pearly Wave](Ships/The%20Pearly%20Wave.md)
+
 ## Points of Interest
 
 ### Dungeons & Ruins
@@ -51,8 +55,6 @@ date: 2026-02-14
 * ---
 
 ## Maps
-
-Link to map images or sketches:
 
 * ---
 

@@ -35,5 +35,6 @@ A directory of key figures aboard the expedition flotilla to the Arcadian Archip
 |[Surveyor-General Octavia Rhen](Flotilla/New%20Army%20of%20Exploration/Surveyor-General%20Octavia%20Rhen.md)|[New Army of Exploration](../Factions/The%20New%20Army%20of%20Exploration.md)|Military Commander|Human|
 |[Bastian Vale](Flotilla/The%20Red%20Wake/Bastian%20Vale.md)|[The Red Wake](../Factions/The%20Red%20Wake.md)|First Mate & Bard|Halfling|
 |[Captain Serafina Marlowe](Flotilla/The%20Red%20Wake/Captain%20Serafina%20Marlowe.md)|[The Red Wake](../Factions/The%20Red%20Wake.md)|Master Navigator|Human|
+|[The Crew of the Pearly Wave](Pearly%20Wave/The%20Crew%20of%20the%20Pearly%20Wave.md)|—|Ship's Crew|Various|
 
 ---

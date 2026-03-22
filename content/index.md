@@ -16,6 +16,10 @@ Welcome to the campaign vault for **The Arcadian Archipelago**, a Pathfinder 2nd
 
 ## Quick Navigation
 
+### Invitation
+
+* [You're Invited](Invitation.md)
+
 ### Campaign Information
 
 * [Campaign Overview (Lore)](World%20Lore/Campaign%20Overview.md)
