@@ -275,4 +275,4 @@ The formal international flotilla coalition is only six months old at launch; ea
 
 ## Route Map
 
-
+![Artwork/Maps/Flotilla Route to the Archipelago.png](../Artwork/maps/Flotilla%20Route%20to%20the%20Archipelago.png)

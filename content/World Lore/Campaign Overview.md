@@ -40,4 +40,4 @@ Now the fleet has finally set sail, carrying not just supplies and healers, but 
 
 ## Route
 
-![Flotilla Route to the Archipelago.png](Flotilla%20Route%20to%20the%20Archipelago.png)
+![Flotilla Route to the Archipelago.png](../Artwork/maps/Flotilla%20Route%20to%20the%20Archipelago.png)
