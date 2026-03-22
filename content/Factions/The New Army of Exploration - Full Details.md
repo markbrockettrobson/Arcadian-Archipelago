@@ -1,30 +1,18 @@
 ---
-title: The New Army of Exploration
+title: The New Army of Exploration — Full Details
 draft: false
 publish: true
+nav_exclude: true
 tags:
 - Faction
 - KeyFaction
-description: Overview of the New Army of Exploration and its ambitions in the reopened archipelago.
-permalink: /factions/the-new-army-of-exploration/
+description: In-depth details on the New Army of Exploration — their leaders' full agendas, internal conflicts, factional relationships, and ships.
+permalink: /factions/the-new-army-of-exploration/full-details/
 aliases: []
 date: 2026-02-22
 ---
 
-Where [The Assembly of Accord](The%20Assembly%20of%20Accord.md) sees an opportunity to build lasting frameworks and [The Chelish Expeditionary Authority](The%20Chelish%20Expeditionary%20Authority.md) uses procedure as a weapon of delay, Taldor's **New Army of Exploration** appears caught between nostalgic yearning for past glories and uncomfortable awareness that those glories came at a terrible cost. Representing the interests of the ancient [Empire of Taldor](https://pathfinderwiki.com/wiki/Taldor), this delegation carries the weight of a thousand years of exploration history both triumphant and deeply troubling.
-
-The [Armies of Exploration](https://pathfinderwiki.com/wiki/Army_of_Exploration) were once legendary. The First Army conquered northward along the Sellen River in 37 AR. The Third Army secured the western shores of the Inner Sea, founding Corentyn and controlling access to the Arcadian Ocean itself. For centuries, these expeditions were synonymous with Taldan greatness, expanding the empire to dominate the entire northern Inner Sea.
-
-But those conquests also laid the foundations for Taldor's slow decline. Overextension, corruption, and brutal colonial administration led to revolts, secessions, and the loss of vast territories. Andoran, Galt, Cheliax, Isger all were once Taldan provinces, all broke free. The Sixth Army's disastrous campaign into the Mwangi Expanse ended in the massacre at the Battle of Nagisa, a failure from which Taldor never fully recovered. Even the most recent Final Army, which sailed for Tian Xia in 4606 AR and founded the colony of Amanadar, has since declared independence as the nation of Linvarre.
-
-Now, under the reformist rule of [Grand Princess Eutropia Stavian](https://pathfinderwiki.com/wiki/Eutropia_Stavian), Taldor seeks to reclaim its identity as a nation of explorers while distancing itself from the imperial excesses that turned exploration into exploitation. The delegation's official rhetoric emphasizes "discovery without domination" and "expertise without empire." They present themselves as the Inner Sea's foremost authorities on exploration who better to navigate the Arcadian Archipelago than the heirs of seven Armies of Exploration?
-
-Yet to observers, the delegation's true purpose remains frustratingly unclear. Many suspect they are here simply because Cheliax is here, because Absalom is here, because *everyone* is here, and Taldor cannot afford to be absent when other powers are carving up new territories. Other factions have noted this apparent lack of clear vision and suspect the worst: that beneath the polished rhetoric about "responsible exploration," Taldor may simply be waiting to see which way the wind blows before committing to a course of action.
-
-Complicating matters further, the three leaders of the delegation appear to observers to be pursuing entirely different personal agendas. Their inability to present a unified front makes the Taldan contingent seem more like three competing expeditions forced to share the same ships than a coordinated national effort.
-
- > 
- > *"Our ancestors mapped the shores of the Arcadian Ocean when Absalom was still rebuilding from the Siege of Prophets and Cheliax was a provincial backwater. We know exploration. We know what it takes to survive in unknown lands. What we're still learning is how to do it without becoming the monsters our history books quietly gloss over."* **Surveyor-General Octavia Rhen**, address to the Flotilla Council.
+← [Back to The New Army of Exploration](The%20New%20Army%20of%20Exploration.md)
 
 ## The Three Leaders: Competing Agendas
 
