@@ -56,7 +56,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Campaign Vault",
-      filterFn: (node) => node.file?.frontmatter?.nav_exclude !== true,
+      filterFn: (node) => !node.data?.tags?.includes("nav-exclude"),
     }),
   ],
   right: [
@@ -94,7 +94,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       title: "Campaign Vault",
-      filterFn: (node) => node.file?.frontmatter?.nav_exclude !== true,
+      filterFn: (node) => !node.data?.tags?.includes("nav-exclude"),
     }),
   ],
   right: [],
