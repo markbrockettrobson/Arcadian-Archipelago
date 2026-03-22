@@ -2,10 +2,10 @@
 title: The Hands of the Everlight — Full Details
 draft: false
 publish: true
-nav_exclude: true
 tags:
 - Faction
 - KeyFaction
+- nav-exclude
 description: In-depth details on the Hands of the Everlight — their logistics, allies, and full NPC profiles.
 permalink: /factions/the-hands-of-the-everlight/full-details/
 aliases: []

@@ -2,10 +2,10 @@
 title: The Magaambya — Full Details
 draft: false
 publish: true
-nav_exclude: true
 tags:
 - Faction
 - KeyFaction
+- nav-exclude
 description: In-depth details on the Magaambya — their philosophy of magic, archives, ships, and goals.
 permalink: /factions/the-magaambya/full-details/
 aliases: []

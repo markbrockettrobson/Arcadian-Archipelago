@@ -2,10 +2,10 @@
 title: The Gray Corsairs — Full Details
 draft: false
 publish: true
-nav_exclude: true
 tags:
 - Faction
 - KeyFaction
+- nav-exclude
 description: In-depth lore on the Gray Corsairs — their key figures, ships, and objectives.
 permalink: /factions/the-gray-corsairs/full-details/
 aliases: []

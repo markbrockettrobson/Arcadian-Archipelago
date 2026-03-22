@@ -2,10 +2,10 @@
 title: The New Army of Exploration — Full Details
 draft: false
 publish: true
-nav_exclude: true
 tags:
 - Faction
 - KeyFaction
+- nav-exclude
 description: In-depth details on the New Army of Exploration — their leaders' full agendas, internal conflicts, factional relationships, and ships.
 permalink: /factions/the-new-army-of-exploration/full-details/
 aliases: []

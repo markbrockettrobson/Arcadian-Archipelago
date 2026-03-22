@@ -2,10 +2,10 @@
 title: The Chelish Expeditionary Authority — Full Details
 draft: false
 publish: true
-nav_exclude: true
 tags:
 - Faction
 - KeyFaction
+- nav-exclude
 description: In-depth details on the Chelish Expeditionary Authority — their relationships, motivations, ships, and factional tensions.
 permalink: /factions/the-chelish-expeditionary-authority/full-details/
 aliases: []

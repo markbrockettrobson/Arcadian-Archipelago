@@ -2,10 +2,10 @@
 title: The Assembly of Accord — Full Details
 draft: false
 publish: true
-nav_exclude: true
 tags:
 - Faction
 - KeyFaction
+- nav-exclude
 description: In-depth details on the Assembly of Accord — their ships, administrative framework, and resources.
 permalink: /factions/the-assembly-of-accord/full-details/
 aliases: []

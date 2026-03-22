@@ -2,9 +2,10 @@
 title: The Red Wake — Full Details
 draft: false
 publish: true
-nav_exclude: true
 tags:
 - Faction
+- KeyFaction
+- nav-exclude
 description: In-depth details on the Red Wake — Marlowe's three Arcadian crossings, her ship, and her position in the flotilla.
 permalink: /factions/the-red-wake/full-details/
 aliases: []
