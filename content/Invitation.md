@@ -8,7 +8,7 @@ description: An invitation to join The Arcadian Archipelago campaign.
 date: 2026-03-22
 ---
 
-# You're Invited — The Arcadian Archipelago
+# You're Invited The Arcadian Archipelago
 
 I'm planning to run a new **Pathfinder 2nd Edition** campaign level 5-20 once our current one wraps up, and I'd love for you to be part of it.
 
@@ -16,7 +16,7 @@ I'm planning to run a new **Pathfinder 2nd Edition** campaign level 5-20 once ou
 
 ## The Pitch
 
-A massive international flotilla has set sail for the **Arcadian Archipelago** — a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission to combat a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, caught between factions vying for influence over the islands' future and whatever forgotten secrets lie waiting in the jungle.
+A massive international flotilla has set sail for the **Arcadian Archipelago** a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission to combat a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, caught between factions vying for influence over the islands' future and whatever forgotten secrets lie waiting in the jungle.
 
 For more detail on the world, see the [Campaign Overview](World%20Lore/Campaign%20Overview.md) and [The Opening of the Archipelago](World%20Lore/The%20Opening%20of%20the%20Archipelago.md).
 
@@ -32,7 +32,7 @@ Seven major factions share the flotilla, each with their own ships, leaders, and
 
 ### [The Assembly of Accord](Factions/The%20Assembly%20of%20Accord.md)
 
-Representing Absalom's political and merchant elite, the Assembly of Accord seeks to build lasting international legal frameworks for the Archipelago. They command the flotilla's finest ships and wield enormous economic influence, but their insistence on procedure and proper charters delayed the expedition by five months — earning them bitter enemies among those who see every day of delay as lives lost to plague.
+Representing Absalom's political and merchant elite, the Assembly of Accord seeks to build lasting international legal frameworks for the Archipelago. They command the flotilla's finest ships and wield enormous economic influence, but their insistence on procedure and proper charters delayed the expedition by five months, earning them bitter enemies among those who see every day of delay as lives lost to plague.
 
 ### [The Chelish Expeditionary Authority](Factions/The%20Chelish%20Expeditionary%20Authority.md)
 
