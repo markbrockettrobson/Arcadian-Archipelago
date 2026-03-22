@@ -16,7 +16,7 @@ date: 2026-03-05
 
 The Pearly Wave is a [Horizon Line Cooperative](../../Factions/Minor%20Factions.md#the-horizon-line-cooperative) vessel  worker-owned, democratically run, and contracted to carry passengers and supplies as part of the expedition flotilla. She is not a warship or a flagship. She is a working ship, built for cargo and passengers, solid enough for open water if the weather holds.
 
-She is the ship you are on.
+This is the ship you are on.
 
 Every crew member aboard holds shares in the vessel. Captain Maelis Thorn was elected to her position by the crew and can be removed the same way. Profits from the contract will be distributed according to each person's labour contribution when they return. The Cooperative considers this unremarkable. Most of the major factions consider it deeply suspicious.
 
