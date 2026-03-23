@@ -34,10 +34,14 @@ Feel free to leave comments on any page of this site, questions, character ideas
 
 I hope to aim for a time split close to:
 
-50% Combat
-20% NPC quest talk
-20% Player talk/planning
-10% Politics/base management
+ > 
+ > 50% Combat
+ > 
+ > 20% NPC quest talk
+ > 
+ > 20% Player talk/planning
+ > 
+ > 10% Politics/base management
 
 I would be very keen to hear your feedback, both now and over time. Please comment below or message me with your input.
 

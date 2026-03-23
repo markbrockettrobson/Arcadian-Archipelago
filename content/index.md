@@ -43,4 +43,6 @@ Welcome to the campaign vault for **The Arcadian Archipelago**, a Pathfinder 2nd
 
 * [PC Rules](Rules/PC%20Rules.md)
 
+### Items & Artifacts
+
 ---
