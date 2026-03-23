@@ -16,15 +16,38 @@ I'm planning to run a new **Pathfinder 2nd Edition** campaign level 5-20 once ou
 
 ## The Pitch
 
-A massive international flotilla has set sail for the **Arcadian Archipelago** a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission to combat a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, caught between factions vying for influence over the islands' future and whatever forgotten secrets lie waiting in the jungle.
+An international flotilla has set sail for the **Arcadian Archipelago** a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission to combat a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, caught between factions vying for influence over the islands' future and whatever forgotten secrets lie waiting amoung the islands.
 
 For more detail on the world, see the [Campaign Overview](World%20Lore/Campaign%20Overview.md) and [The Opening of the Archipelago](World%20Lore/The%20Opening%20of%20the%20Archipelago.md).
 
-For the full rules on character creation, starting level, and what to expect at the table, see the [PC Rules](Rules/PC%20Rules.md).
+For the full rules on character creation, starting level, see the [PC Rules](Rules/PC%20Rules.md).
 
 If any of this sounds fun, let me know I'd love to start talking character concepts early so I can weave your backstory into the world.
 
 ---
+
+## Comments
+
+Feel free to leave comments on any page of this site, questions, character ideas, lore thoughts, all welcome. Just be aware that this website is hosted publicly on GitHub, so **keep everything PG and avoid sharing any personal information**.
+
+## Campaign Time Allocation
+
+I hope to aim for a time split close to:
+
+50% Combat
+20% NPC quest talk
+20% Player talk/planning
+10% Politics/base management
+
+I would be very keen to hear your feedback, both now and over time. Please comment below or message me with your input.
+
+## Schedule
+
+Age of Ashes has worked well, and I would like to copy that model.
+
+## Loot
+
+I am torn; I don't want the overhead of managing loot, but I did like how it was handled in Age of Ashes. I would be keen for your input via a comment or message.
 
 ## The Factions
 
@@ -59,7 +82,3 @@ Taldor's bid to reclaim its storied legacy as a nation of explorers. On paper, t
 Captain Serafina Marlowe is the only living captain to have navigated Arcadian waters three times, and she knows exactly what that knowledge is worth. The Red Wake operates as highly paid consultants, unapologetic opportunists who treat their council seat as a sinecure and their navigational expertise as a licence to print gold.
 
 ---
-
-## Comments
-
-Feel free to leave comments on any page of this site, questions, character ideas, lore thoughts, all welcome. Just be aware that this website is hosted publicly on GitHub, so **keep everything PG and avoid sharing any personal information**.
