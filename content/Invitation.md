@@ -10,19 +10,26 @@ date: 2026-03-22
 
 # You're Invited The Arcadian Archipelago
 
-I'm planning to run a new **Pathfinder 2nd Edition** campaign level 5-20 once our current one wraps up, and I'd love for you to be part of it.
+I'm planning to run a new weekly **Pathfinder 2nd Edition** campaign level 5-20 once our current one wraps up sometime later in the year, and I'd love for you to be part of it.
 
 ---
 
 ## The Pitch
 
-An international flotilla has set sail for the **Arcadian Archipelago** a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission to combat a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, caught between factions vying for influence over the islands' future and whatever forgotten secrets lie waiting amoung the islands.
+An international flotilla has set sail for the **Arcadian Archipelago** a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission to combat a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, free to forge your own path as the factions fight and vyi for influence over the islands' future and whatever forgotten secrets lie waiting amoung the islands.
 
-For more detail on the world, see the [Campaign Overview](World%20Lore/Campaign%20Overview.md) and [The Opening of the Archipelago](World%20Lore/The%20Opening%20of%20the%20Archipelago.md).
+For more detail on the world, see the [Campaign Overview](World%20Lore/Campaign%20Overview.md) and [The Opening of the Archipelago](World%20Lore/The%20Opening%20of%20the%20Archipelago.md). Dont read too much its meant for me to know, but isnt a secret either.
 
 For the full rules on character creation, starting level, see the [PC Rules](Rules/PC%20Rules.md).
 
 If any of this sounds fun, let me know I'd love to start talking character concepts early so I can weave your backstory into the world.
+
+## Core Themes
+
+Survival
+Building a "new" frontier
+Escaping the patterns of Colonialism / Manifesting Destiny
+Myths and old magic
 
 ---
 
@@ -48,6 +55,9 @@ I would be very keen to hear your feedback, both now and over time. Please comme
 ## Schedule
 
 Age of Ashes has worked well, and I would like to copy that model.
+
+ > 
+ > set day once per week, run on 4+, occasionally a flexible schedule to accommodate everyone's availability.
 
 ## Loot
 

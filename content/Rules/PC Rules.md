@@ -27,7 +27,7 @@ consider that you will be on an expedition to a remote and dangerous location, s
 
 I would also like player to keep their character sheets up to date in Pathbuilder and share them with me with the Connect to GM feature. I will not be doing a full review of every feat and item choice i mostly want to trial the encounter manager with Initiative and hp tracking in pathbuilder. It has a cool featurer that lets me see your AC and it live updates as you add buffs and debuffs, which is really helpful for combat and i would like to give it a go.
 
-If anyone doesn't have a pathbuilder account i am more then happy to pay for it and help you set it up, just let me know.
+If anyone doesn't have a pathbuilder account i am more then happy to pay for it, just let me know.
 
 On the pathbuilder menu go to "Connect to GM" and enter the following code to share your character sheet with me. This will allow me to see your character sheet and use it in the encounter manager for combat.
 
@@ -49,7 +49,7 @@ It's hard to build a believable world with consistent NPC reactions when the par
 
 ## PC Motives
 
-Each party member should have a clear motive for being on the expedition to the Archipelago. This could be a personal connection to the islands, a desire for adventure, a sense of duty, or any other reason that makes sense for your character. The key point is that it should be roleplayable and should help drive your character's actions and decisions.
+Each party member should have a clear motive for being on the expedition to the Archipelago. This could be a personal connection to the islands, a desire for adventure, a sense of duty, or any other reason that makes sense for your character.
 
 Additionally, each character should have a reason the expedition would want them on the team. Whether it's a specific skill set, knowledge of the islands, or a unique perspective, there should be a clear reason why your character is part of this particular expedition.
 
@@ -57,7 +57,7 @@ Links to the major factions and geopolitical context are available in [Factions 
 
 To this end, I want each character to have a connection to one of the major or minor factions. I want to build these ties into the story, so the sooner you share your character concept, the better I can weave it into the narrative. Aim for a connection that still lets your character keep their own agency and make their own choices.
 
-This campaign isolates the characters from their previous lives and connections, so we have more freedom to include a character with a position of nobility, wealth without it being a problem for the party.
+This campaign isolates the characters from their previous lives and connections, so we have more freedom to include a character with a position of nobility or wealth without it being a problem for the party.
 
 ### Party cohesion
 
@@ -91,7 +91,7 @@ Try to avoid exotic combinations of ancestries and heritages that stretch believ
 
 * **All classes are allowed**, including **Exemplar**.
 * For Exemplar specifically: please keep the "fragment of a god" element low-key in play and tone.
-* I am open to playtest classes but would have to review them on a case-by-case basis. If you have a specific playtest class in mind, please share it with me and we can discuss whether it is ready for a campaign. Necromancer would need to be reskinned for example. We would also have to discuss how we move to the realease version of the class when it comes out.
+* I am open to playtest classes but would have to review them on a case-by-case basis. If you have a specific playtest class in mind, please share it with me and we can discuss whether it is ready for a campaign. Necromancer would need to be reskinned to elementals for example. We would also have to discuss how we move to the release version of the class when it comes out.
 
 ### Archetypes
 
