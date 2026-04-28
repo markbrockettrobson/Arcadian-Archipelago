@@ -13,7 +13,7 @@ tags:
 
 We will use the [Free Archetype](https://2e.aonprd.com/Rules.aspx?ID=2751) [Variant Rule](https://2e.aonprd.com/Rules.aspx?ID=2739).
 
-We are not limiting archetypes to a specific theme. You still need to meet all normal archetype feat prerequisites.
+Archetypes are not theme-limited, but all normal feat prerequisites still apply.
 
 ## Starting Level and Wealth
 
@@ -21,41 +21,47 @@ We are not limiting archetypes to a specific theme. You still need to meet all n
 * **Starting Wealth:** 270 gp (standard for 5th level characters)
 * **Starting Items level cap:** 5th level
 
-consider that you will be on an expedition to a remote and dangerous location, so you should have equipment that reflects that. For example, you might want a tent
+You are joining a remote, dangerous expedition, so pack accordingly (for example, a tent).
 
-## Pathbuilder
+## Relics
 
-I would also like player to keep their character sheets up to date in Pathbuilder and share them with me with the Connect to GM feature. I will not be doing a full review of every feat and item choice i mostly want to trial the encounter manager with Initiative and hp tracking in pathbuilder. It has a cool featurer that lets me see your AC and it live updates as you add buffs and debuffs, which is really helpful for combat and i would like to give it a go.
-
-If anyone doesn't have a pathbuilder account i am more then happy to pay for it, just let me know.
-
-On the pathbuilder menu go to "Connect to GM" and enter the following code to share your character sheet with me. This will allow me to see your character sheet and use it in the encounter manager for combat.
-
- > 
- > GM ID: 18018
- > Password: <Message Mark>
-
-*Feedback on Pathbuilder is also welcome*
+Players may acquire relics as bonus objectives. See [Relics](../Items%20&%20Artifacts/Relics.md) for rules and lore.
 
 ## Minis
 
-I would like to order hero forge minis and paint them for the party. Ideally, I want to have them ready for the first session, so I would like to have character concepts ready 4 weeks before the first session. This is not a hard deadline
+I plan to order Hero Forge minis and paint them for session one. If possible, please share character concepts about 4 weeks in advance (not a hard deadline).
+
+## Pathbuilder
+
+Please keep your character sheet updated in Pathbuilder and share it via Connect to GM. I am not reviewing every feat/item choice; I mainly want to use the encounter manager for initiative, HP, and live AC/buff tracking.
+
+If you do not have a Pathbuilder account, I am happy to pay for one.
+
+In Pathbuilder, open "Connect to GM" and enter:
+
+ > 
+ > GM ID: 18018
+ > Password: Message Mark
+
+*Feedback on Pathbuilder is welcome.*
 
 ## Tone
 
 The campaign will have a moderately serious tone. It is okay to have a good amount of whimsical and lighthearted elements, but the overall tone should be grounded and consistent.
 
-It's hard to build a believable world with consistent NPC reactions when the party includes something like a living loaf of bread familiar. Please keep that in mind when making character choices, and if you have an unusual concept in mind, please discuss it with me.
+Please avoid concepts that break setting believability. If you have an unusual idea, discuss it with me first.
 
 ## PC Motives
 
-Each party member should have a clear motive for being on the expedition to the Archipelago. This could be a personal connection to the islands, a desire for adventure, a sense of duty, or any other reason that makes sense for your character.
+Each PC should have:
 
-Additionally, each character should have a reason the expedition would want them on the team. Whether it's a specific skill set, knowledge of the islands, or a unique perspective, there should be a clear reason why your character is part of this particular expedition.
+* A clear reason to join the Archipelago expedition.
+* A clear reason the expedition wants them.
+* A connection to a major or minor faction.
 
-Links to the major factions and geopolitical context are available in [Factions of the Flotilla](../Factions/index.md) and [Campaign Overview](../World%20Lore/Campaign%20Overview.md), and I encourage you to draw from those for inspiration when developing your character's motives. if you had an idea for a minor faction or organization that would be a good fit for your character, please let me know and we can work it into the world.
+Use [Factions of the Flotilla](../Factions/index.md) and [Campaign Overview](../World%20Lore/Campaign%20Overview.md) for inspiration. If you want to create a fitting minor faction tie, tell me and we can build it in.
 
-To this end, I want each character to have a connection to one of the major or minor factions. I want to build these ties into the story, so the sooner you share your character concept, the better I can weave it into the narrative. Aim for a connection that still lets your character keep their own agency and make their own choices.
+Share concepts early so I can weave those ties into the story while preserving your character's agency.
 
 This campaign isolates the characters from their previous lives and connections, so we have more freedom to include a character with a position of nobility or wealth without it being a problem for the party.
 
@@ -65,7 +71,7 @@ You can be trusted, but here it is for completeness' sake:
 
 * **No truly evil alignments.** You can have selfish or morally ambiguous characters, but not ones that would make it difficult for a good character to justify being in the same party with them.
 * **Chaotic alignments are allowed, but should be used thoughtfully.** If you want to play a chaotic character, please keep the tone and act in the best interest of the party and the overall story.
-* **No axiomatic views.** Don't make a PC who refuses to be seen with a party member of a different alignment, etc. For example, a character who follows the [Laws of Mortality](https://pathfinderwiki.com/wiki/Laws_of_Mortality) and refuses to be seen with a character who uses divine magic or worships a god. This is not to say you can't have a character with strong beliefs, but they should be flexible enough to allow for party cohesion and consistent NPC reactions.
+* **No rigidly exclusionary beliefs.** Strong beliefs are fine, but your character must still be able to cooperate with the party (for example, not refusing to travel with divine casters due to [Laws of Mortality](https://pathfinderwiki.com/wiki/Laws_of_Mortality)).
 
 ## Pathfinder Restricted Options
 
@@ -83,7 +89,7 @@ You can be trusted, but here it is for completeness' sake:
 
 For heritages and adopted ancestries, the same guidelines apply if the base ancestry is allowed, then the heritage or adopted ancestry is also allowed, unless it falls into a restricted category (e.g., undead or construct). Please feel free to discuss it with me.
 
-Try to avoid exotic combinations of ancestries and heritages that stretch believability, for example, a Sylph lizardfolk adopted by Centaur parents. If you have a unique concept that you think could work, please discuss it with me so we can find a way to make it fit within the campaign's world. I would much prefer we create a narrative that makes more sense and reskin the mechanics to fit, rather than trying to shoehorn a concept that doesn't quite fit a moderately serious tone and setting.
+Try to avoid ancestry/heritage combinations that strain setting believability. If you have a unique concept, talk to me and we can usually fit it through narrative framing or a mechanical reskin.
 
 ## Allowed Classes & Archetypes
 
@@ -91,7 +97,7 @@ Try to avoid exotic combinations of ancestries and heritages that stretch believ
 
 * **All classes are allowed**, including **Exemplar**.
 * For Exemplar specifically: please keep the "fragment of a god" element low-key in play and tone.
-* I am open to playtest classes but would have to review them on a case-by-case basis. If you have a specific playtest class in mind, please share it with me and we can discuss whether it is ready for a campaign. Necromancer would need to be reskinned to elementals for example. We would also have to discuss how we move to the release version of the class when it comes out.
+* Playtest classes are case-by-case. Share what you want to use first. Example: Necromancer would need an elemental reskin. We should also agree on how to transition to the released class version later.
 
 ### Archetypes
 
@@ -132,11 +138,11 @@ This is a fantasy campaign - **no sci-fi technology**. Specifically:
 
 * **No laser guns, energy weapons, or futuristic equipment.**
 * **Early firearms only** (flintlock-era). Reskins are available if you want a different aesthetic - just ask.
-* **Android** ([Archives of Nethys](https://2e.aonprd.com/Ancestries.aspx?ID=27)): the mechanics are interesting but the aesthetic doesn't fit. If you like what Android does mechanically, bring it up and we can work out a reskin together.
+* **Android** ([Archives of Nethys](https://2e.aonprd.com/Ancestries.aspx?ID=27)): mechanics can be reskinned,
 
 ## Retraining and Character Changes
 
-* **Retraining is allowed**, but downtime is very limited. You can expect 1-2 opportunities for retraining per arc, but you probably will not have weeks to do a major overhaul of your character, so keep that in mind when making character choices.
+* **Retraining is allowed**, but downtime is limited. Expect 1-2 retraining windows per arc, not long rebuild periods.
 
 ## Skills
 
@@ -150,18 +156,16 @@ I encourage you to have good skill coverage across the party. Please make sure y
 
 Common items are allowed. Uncommon and rare items require prior approval.
 
-I know this can feel restrictive, but it keeps review workload manageable and helps maintain balance and tone.
-
-If you have a specific item in mind, bring it to me and we can discuss whether it fits your character and the campaign.
+If you have a specific item in mind, ask and we can check fit for character, tone, and balance.
 
 # Spells
 
 All common spells are allowed. Uncommon and rare spells require prior approval.
 
-Teleportation and planar travel magic exist in this world, but a known magical phenomenon affects the Archipelago. Teleportation causes slight physical scattering. At very short ranges (including typical in-combat teleportation), characters may feel briefly disoriented but suffer no mechanical harm. At longer ranges ( 1 mile + ), teleportation becomes lethally unsafe.
+Teleportation and planar travel exist, but the Archipelago is affected by a known magical phenomenon. Teleportation causes physical scattering: short-range uses (including combat) are disorienting but mechanically safe, while longer-range uses (1+ mile) are lethally unsafe.
 
 This phenomenon is widely known and is one of the main reasons teleportation is not used to reach the Archipelago. It also means teleportation is not a reliable method of travel within the islands.
 
-Long-range communication spells are similarly disrupted. Communication with people outside the Archipelago is not reliable through magical long-distance messaging.
+Long-range communication magic is similarly disrupted, especially to and from outside the Archipelago.
 
 See [Arcadian Interference Phenomenon](../World%20Lore/Arcadian%20Interference%20Phenomenon.md) for the player-facing lore summary.

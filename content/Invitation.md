@@ -8,34 +8,32 @@ description: An invitation to join The Arcadian Archipelago campaign.
 date: 2026-03-22
 ---
 
-# You're Invited The Arcadian Archipelago
+# You're Invited: The Arcadian Archipelago
 
-I'm planning to run a new weekly **Pathfinder 2nd Edition** campaign level 5-20 once our current one wraps up sometime later in the year, and I'd love for you to be part of it.
+I'm planning to run a new weekly **Pathfinder 2nd Edition** levels 5–20 campaign once our current one wraps up later this year, and I'd love for you to be part of it.
 
 ---
 
 ## The Pitch
 
-An international flotilla has set sail for the **Arcadian Archipelago** a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission to combat a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, free to forge your own path as the factions fight and vyi for influence over the islands' future and whatever forgotten secrets lie waiting amoung the islands.
+An international flotilla has set sail for the **Arcadian Archipelago** a mysterious chain of tropical islands steeped in ancient magic that has only recently become reachable. What began as an urgent mercy mission against a devastating plague has become a tangled web of competing national agendas, political manoeuvring, and old rivalries. Your characters are part of this expedition, free to forge your own path as the factions vie for influence over the islands' future and whatever forgotten secrets lie among them.
 
-For more detail on the world, see the [Campaign Overview](World%20Lore/Campaign%20Overview.md) and [The Opening of the Archipelago](World%20Lore/The%20Opening%20of%20the%20Archipelago.md). Dont read too much its meant for me to know, but isnt a secret either.
-
-For the full rules on character creation, starting level, see the [PC Rules](Rules/PC%20Rules.md).
+Do not feel the need to read everything; it's for me, but it's not a secret. For world lore, see [Campaign Overview](World%20Lore/Campaign%20Overview.md) and [The Opening of the Archipelago](World%20Lore/The%20Opening%20of%20the%20Archipelago.md). For character creation, see [PC Rules](Rules/PC%20Rules.md).
 
 If any of this sounds fun, let me know I'd love to start talking character concepts early so I can weave your backstory into the world.
 
 ## Core Themes
 
-Survival
-Building a "new" frontier
-Escaping the patterns of Colonialism / Manifesting Destiny
-Myths and old magic
+* Survival
+* Building a "new" frontier
+* Resisting Colonialism vs Manifest Destiny
+* Myths and old magic
 
 ---
 
 ## Comments
 
-Feel free to leave comments on any page of this site, questions, character ideas, lore thoughts, all welcome. Just be aware that this website is hosted publicly on GitHub, so **keep everything PG and avoid sharing any personal information**.
+Comments are welcome on any page, questions, character ideas, lore thoughts. This site is hosted publicly on GitHub, so **keep everything PG and avoid sharing personal information**.
 
 ## Campaign Time Allocation
 
@@ -50,22 +48,19 @@ I hope to aim for a time split close to:
  > 
  > 10% Politics/base management
 
-I would be very keen to hear your feedback, both now and over time. Please comment below or message me with your input.
+Feedback is very welcome comment below or message me.
 
 ## Schedule
 
-Age of Ashes has worked well, and I would like to copy that model.
-
- > 
- > set day once per week, run on 4+, occasionally a flexible schedule to accommodate everyone's availability.
+Same model as Age of Ashes: a set day once per week, running when 4+ people are available, with occasional flexibility.
 
 ## Loot
 
-I am torn; I don't want the overhead of managing loot, but I did like how it was handled in Age of Ashes. I would be keen for your input via a comment or message.
+I liked how loot was handled in Age of Ashes but want to avoid the overhead. Input welcome comment or message me.
 
 ## The Factions
 
-Seven major factions share the flotilla, each with their own ships, leaders, and vision for the Archipelago. Your character will have a connection to one of them.
+Seven major factions share the flotilla, each with their own ships, leaders, and vision for the Archipelago.
 
 ### [The Assembly of Accord](Factions/The%20Assembly%20of%20Accord.md)
 
@@ -73,19 +68,19 @@ Representing Absalom's political and merchant elite, the Assembly of Accord seek
 
 ### [The Chelish Expeditionary Authority](Factions/The%20Chelish%20Expeditionary%20Authority.md)
 
-Cheliax's delegation enforces order through disciplined Hellknight enforcers and masterful bureaucratic manoeuvring. They publicly champion lawful governance for the new territories, but few aboard the flotilla believe their ambitions stop at altruism, colonial expansion lurks behind every carefully worded charter they propose.
+Cheliax's delegation enforces order through disciplined Hellknight enforcers and masterful bureaucratic manoeuvring. They publicly champion lawful governance, but few believe their ambitions stop at altruism. Colonial expansion lurks behind every carefully worded charter they propose.
 
 ### [The Gray Corsairs](Factions/The%20Gray%20Corsairs.md)
 
-Andoran's freedom fighters joined the expedition for one reason: to make sure the Archipelago doesn't become another colonial prize or haven for slavers. Backed by the Steel Falcons, they advocate for democratic self-governance and stand in direct, open opposition to Chelish imperialism a tension that keeps the rest of the flotilla on edge.
+Andoran's freedom fighters joined to ensure the Archipelago doesn't become another colonial prize or haven for slavers. Backed by the Steel Falcons, they advocate for democratic self-governance and stand in direct opposition to Chelish imperialism.
 
 ### [The Hands of the Everlight](Factions/The%20Hands%20of%20the%20Everlight.md)
 
-The faction that started it all. This sect of Sarenrae's faithful received collective visions of a terrible plague spreading through the islands and rallied the world to act. They have no ships of their own, travelling as guests aboard other vessels, they are furious at the bureaucratic delays they view as a death sentence for those they set out to save.
+The faction that started it all. This sect of Sarenrae's faithful received collective visions of a terrible plague and rallied the world to act. They have no ships of their own, travelling as guests aboard other vessels. They are furious at the bureaucratic delays they view as a death sentence for those they set out to save.
 
 ### [The Magaambya](Factions/The%20Magaambya.md)
 
-Delegates from the world's oldest magical academy, founded before Earthfall over ten thousand years ago, bring a perspective no other faction can match. They possess extensive pre-Earthfall knowledge of Arcadia and approach the islands not as territory to claim, but as an opportunity to learn from indigenous peoples and share knowledge as equals.t.
+Delegates from the world's oldest magical academy, founded over ten thousand years ago, before Earthfall, bring a perspective no other faction can match. They approach the islands not as territory to claim, but as an opportunity to learn from indigenous peoples and share knowledge as equals.
 
 ### [The New Army of Exploration](Factions/The%20New%20Army%20of%20Exploration.md)
 
