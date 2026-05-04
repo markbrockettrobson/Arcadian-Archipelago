@@ -10,7 +10,7 @@ date: 2026-03-22
 
 # You're Invited: The Arcadian Archipelago
 
-I'm planning to run a new weekly **Pathfinder 2nd Edition** levels 5–20 campaign once our current one wraps up later this year, and I'd love for you to be part of it.
+I'm planning to run a new weekly **Pathfinder 2nd Edition** levels 5–20 campaign once our current one wraps up later this year, and I'd love for you to be part of it. Aiming at level 5-10 in 4 months, 10-15 in 4 months, and 15-20 in 4 months (a bit faster than Age of Ashes because i am writing it), but that is flexible based on how the story unfolds and player interest. with an exit point at the end of each chapter if its not working out or is just too much work.
 
 ---
 
@@ -52,7 +52,7 @@ Feedback is very welcome comment below or message me.
 
 ## Schedule
 
-Same model as Age of Ashes: a set day once per week, running when 4+ people are available, with occasional flexibility.
+Same model as Age of Ashes: a set day once per week, running when GM+4 people are available, with occasional flexibility.
 
 ## Loot
 
