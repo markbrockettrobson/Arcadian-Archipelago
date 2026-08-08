@@ -11,6 +11,8 @@ aliases: []
 date: 2026-02-22
 ---
 
+# Speaker Initiate Kofi Osondu
+
 ![Speaker-Initiate-Kofi-Osondu.png](../../../Artwork/NPC/Speaker-Initiate-Kofi-Osondu.png)
 
 **Faction:** [The Magaambya](../../../Factions/The%20Magaambya.md)  

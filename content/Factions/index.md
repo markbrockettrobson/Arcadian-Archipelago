@@ -14,6 +14,8 @@ date: 2026-02-22
 
 The expedition to the Arcadian Archipelago comprises seven major factions, each with their own motivations, resources, and vision for the islands.
 
+see [Factions.canvas](Factions.canvas)
+
 ---
 
 ## Overview
@@ -80,7 +82,7 @@ Driven by collective visions of plague in the Archipelago, this sect of Sarenrae
 
 ### [The Magaambya](The%20Magaambya.md)
 
-**Leader:** Speaker Initiate Kofi Osondu  
+**Leader:** [Speaker Initiate Kofi Osondu](../NPCs/Flotilla/The%20Magaambya/Speaker%20Initiate%20Kofi%20Osondu.md)  
 **Power Base:** World's oldest magical academy, ten millennia of preserved knowledge
 
 Representing the Magaambya, the world's oldest continuous magical academy founded before Earthfall, this delegation brings a radically different perspective to the expedition. They possess extensive pre-Earthfall knowledge of Arcadia and view the archipelago not as territory to claim or artifacts to extract, but as an opportunity to learn from and collaborate with indigenous peoples. Their commitment to sharing knowledge freely and prioritizing living magical practice over dead relics earns them respect from humanitarian factions and frustration from competitive researchers.

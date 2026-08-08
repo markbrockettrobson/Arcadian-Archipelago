@@ -11,6 +11,8 @@ aliases: []
 date: 2026-02-22
 ---
 
+# Captain Isla Stormwright
+
 ![Captain-Isla-Stormwright.png](../../../Artwork/NPC/Captain-Isla-Stormwright.png)
 
 **Faction:** [The Gray Corsairs](../../../Factions/The%20Gray%20Corsairs.md)  
