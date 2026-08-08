@@ -33,6 +33,11 @@ jobs:
           cd .quartz
           npm install
 
+      - name: Install canvas-page plugin
+        run: |
+          cd .quartz
+          npx quartz plugin add github:quartz-community/canvas-page
+
       - name: Copy config files
         run: |
           cp quartz.config.ts .quartz/quartz.config.ts
