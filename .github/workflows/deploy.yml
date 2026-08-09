@@ -48,6 +48,16 @@ jobs:
           cd .quartz
           npx quartz build --directory ../content --output ../public
 
+      - name: Fix canvas page sidebar links for GitHub Pages subpath
+        run: |
+          # The canvas-page plugin renders its sidebar using root-relative hrefs (e.g. /rules/)
+          # which break when the site is deployed under a subpath (/Arcadian-Archipelago/).
+          # This step patches all canvas page HTML files so root-relative links get the correct prefix.
+          find ./public -name "*.html" -exec grep -l 'data-frame="canvas"' {} + | \
+          while IFS= read -r file; do
+            sed -i 's|href="/\([a-zA-Z]\)|href="/Arcadian-Archipelago/\1|g' "$file"
+          done
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
