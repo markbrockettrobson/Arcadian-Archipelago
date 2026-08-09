@@ -1,35 +1,303 @@
 {
 	"publish": true,
-	"nodes":[
-		{"id":"b08474423be58410","type":"file","file":"Factions/index.md","subpath":"#The Assembly of Accord","x":-424,"y":-967,"width":400,"height":488,"color":"2"},
-		{"id":"e52be183b1f27e46","type":"file","file":"Factions/index.md","subpath":"#The Chelish Expeditionary Authority","x":16,"y":-967,"width":400,"height":488,"color":"1"},
-		{"id":"0892d5c463f3caea","type":"file","file":"Factions/index.md","subpath":"#The Gray Corsairs","x":456,"y":-967,"width":400,"height":488,"color":"5"},
-		{"id":"c2ab55b6269aee6d","type":"file","file":"Factions/index.md","subpath":"#The Magaambya","x":1336,"y":-967,"width":400,"height":488,"color":"4"},
-		{"id":"0aafa773cba9b94c","type":"file","file":"Factions/index.md","subpath":"#The Hands of the Everlight","x":896,"y":-967,"width":400,"height":488,"color":"3"},
-		{"id":"5a10f3e3e635a342","type":"file","file":"NPCs/Flotilla/Assembly of Accord/Lord Arbitrator Hadrian Voss.md","subpath":"#Lord Arbitrator Hadrian Voss","x":-424,"y":-439,"width":400,"height":463,"color":"2"},
-		{"id":"a2dcbc9095952c29","type":"file","file":"NPCs/Flotilla/Chelish Expeditionary Authority/Armiger-Magistrate Corvain Thorn.md","subpath":"#Armiger-Magistrate Corvain Thorn","x":16,"y":-439,"width":400,"height":463,"color":"1"},
-		{"id":"9a929f06993a591e","type":"file","file":"NPCs/Flotilla/Gray Corsairs/Captain Isla Stormwright.md","subpath":"#Captain Isla Stormwright","x":456,"y":-439,"width":400,"height":463,"color":"5"},
-		{"id":"7c1dfe1b6173fcb6","type":"file","file":"NPCs/Flotilla/Assembly of Accord/Admiral Lysandra Korvus.md","subpath":"#Admiral Lysandra Korvus","x":-424,"y":64,"width":400,"height":463,"color":"2"},
-		{"id":"e0332fc9145064dd","type":"file","file":"NPCs/Flotilla/Assembly of Accord/Magister Tertius Vael.md","subpath":"#Magister Tertius Vael","x":-424,"y":567,"width":400,"height":463,"color":"2"},
-		{"id":"1acf35668c21c9d4","type":"file","file":"Factions/The Assembly of Accord.md","x":-424,"y":1070,"width":400,"height":400,"color":"2"},
-		{"id":"21952660de535c41","type":"file","file":"Factions/The Chelish Expeditionary Authority.md","x":16,"y":1070,"width":400,"height":400,"color":"1"},
-		{"id":"a0dcd42ba955b96d","type":"file","file":"Factions/The Gray Corsairs.md","x":456,"y":1070,"width":400,"height":400,"color":"5"},
-		{"id":"eeb1cd9e7c4ca139","type":"file","file":"NPCs/Flotilla/Hands of the Everlight/High Healer Valerius.md","subpath":"#High Healer Valerius","x":896,"y":-439,"width":400,"height":463,"color":"3"},
-		{"id":"fda7a3c04be99fde","type":"file","file":"NPCs/Flotilla/The Magaambya/Speaker Initiate Kofi Osondu.md","subpath":"#Speaker Initiate Kofi Osondu","x":1336,"y":-439,"width":400,"height":463,"color":"4"},
-		{"id":"9e67f306f93b251c","type":"file","file":"Factions/The Hands of the Everlight.md","x":896,"y":1070,"width":400,"height":400,"color":"3"},
-		{"id":"dd468feffba737d2","type":"file","file":"Factions/The Magaambya.md","x":1336,"y":1070,"width":400,"height":400,"color":"4"},
-		{"id":"7edf327cc393ae9f","x":1776,"y":1070,"width":400,"height":400,"color":"#0053fa","type":"file","file":"Factions/The New Army of Exploration.md"},
-		{"id":"a9bf6844d6cd3f6b","x":1776,"y":-439,"width":400,"height":463,"color":"#0053fa","type":"file","file":"NPCs/Flotilla/New Army of Exploration/Ambassador-Envoy Cassius Orell.md","subpath":"#Ambassador-Envoy Cassius Orell"},
-		{"id":"34b514420f99472e","x":1776,"y":-967,"width":400,"height":488,"color":"#0053fa","type":"file","file":"Factions/index.md","subpath":"#The New Army of Exploration"},
-		{"id":"436f7d77e14908d3","type":"file","file":"Factions/The Red Wake.md","x":2216,"y":1070,"width":400,"height":400,"color":"6"},
-		{"id":"1d212590f382f4d5","x":2216,"y":-967,"width":400,"height":488,"color":"6","type":"file","file":"Factions/index.md","subpath":"#The Red Wake"},
-		{"id":"f97ba51153cd08de","type":"file","file":"NPCs/Flotilla/The Red Wake/Captain Serafina Marlowe.md","subpath":"#Captain Serafina \"Red Wake\" Marlowe","x":2216,"y":-439,"width":400,"height":463,"color":"6"},
-		{"id":"ad94e3af1482dc9e","type":"file","file":"NPCs/Flotilla/Gray Corsairs/Tidecaller Rowan.md","subpath":"#Tidecaller Rowan","x":456,"y":64,"width":400,"height":463,"color":"5"},
-		{"id":"e9aad004baed13e7","type":"file","file":"NPCs/Flotilla/Hands of the Everlight/Champion Elara.md","subpath":"#Champion Elara","x":896,"y":64,"width":400,"height":463,"color":"3"},
-		{"id":"4dbf34d737ceb186","type":"file","file":"NPCs/Flotilla/The Red Wake/Bastian Vale.md","subpath":"#Bastian Vale","x":2216,"y":77,"width":400,"height":450,"color":"6"},
-		{"id":"4bd948cf0b5badc3","x":1776,"y":77,"width":400,"height":463,"color":"#0053fa","type":"file","file":"NPCs/Flotilla/New Army of Exploration/Court Magister Valerian Kade.md","subpath":"#Court Magister Valerian Kade"},
-		{"id":"ae471b4da8fcca1a","type":"file","file":"NPCs/Flotilla/Hands of the Everlight/Adjudicator Kaelen.md","subpath":"#Adjudicator Kaelen","x":896,"y":567,"width":400,"height":463,"color":"3"},
-		{"id":"b8e18c59188c99f8","x":1776,"y":574,"width":400,"height":456,"color":"#0053fa","type":"file","file":"NPCs/Flotilla/New Army of Exploration/Surveyor-General Octavia Rhen.md","subpath":"#Surveyor-General Octavia Rhen"}
+	"nodes": [
+		{
+			"id": "b08474423be58410",
+			"type": "file",
+			"file": "Factions/index.md",
+			"subpath": "#The Assembly of Accord",
+			"x": -424,
+			"y": -967,
+			"width": 400,
+			"height": 488,
+			"color": "2"
+		},
+		{
+			"id": "e52be183b1f27e46",
+			"type": "file",
+			"file": "Factions/index.md",
+			"subpath": "#The Chelish Expeditionary Authority",
+			"x": 16,
+			"y": -967,
+			"width": 400,
+			"height": 488,
+			"color": "1"
+		},
+		{
+			"id": "0892d5c463f3caea",
+			"type": "file",
+			"file": "Factions/index.md",
+			"subpath": "#The Gray Corsairs",
+			"x": 456,
+			"y": -967,
+			"width": 400,
+			"height": 488,
+			"color": "5"
+		},
+		{
+			"id": "c2ab55b6269aee6d",
+			"type": "file",
+			"file": "Factions/index.md",
+			"subpath": "#The Magaambya",
+			"x": 1336,
+			"y": -967,
+			"width": 400,
+			"height": 488,
+			"color": "4"
+		},
+		{
+			"id": "0aafa773cba9b94c",
+			"type": "file",
+			"file": "Factions/index.md",
+			"subpath": "#The Hands of the Everlight",
+			"x": 896,
+			"y": -967,
+			"width": 400,
+			"height": 488,
+			"color": "3"
+		},
+		{
+			"id": "5a10f3e3e635a342",
+			"type": "text",
+			"x": -424,
+			"y": -439,
+			"width": 400,
+			"height": 463,
+			"color": "2",
+			"text": "[![Lord Arbitrator Hadrian Voss](../artwork/npc/lord-arbitrator-hadrian-voss.png)](../npcs/flotilla/assembly-of-accord/lord-arbitrator-hadrian-voss)\n\n**[Lord Arbitrator Hadrian Voss](../npcs/flotilla/assembly-of-accord/lord-arbitrator-hadrian-voss)**"
+		},
+		{
+			"id": "a2dcbc9095952c29",
+			"type": "text",
+			"x": 16,
+			"y": -439,
+			"width": 400,
+			"height": 463,
+			"color": "1",
+			"text": "[![Armiger-Magistrate Corvain Thorn](../artwork/npc/armiger-magistrate-corvain-thorn.png)](../npcs/flotilla/chelish-expeditionary-authority/armiger-magistrate-corvain-thorn)\n\n**[Armiger-Magistrate Corvain Thorn](../npcs/flotilla/chelish-expeditionary-authority/armiger-magistrate-corvain-thorn)**"
+		},
+		{
+			"id": "9a929f06993a591e",
+			"type": "text",
+			"x": 456,
+			"y": -439,
+			"width": 400,
+			"height": 463,
+			"color": "5",
+			"text": "[![Captain Isla Stormwright](../artwork/npc/captain-isla-stormwright.png)](../npcs/flotilla/gray-corsairs/captain-isla-stormwright)\n\n**[Captain Isla Stormwright](../npcs/flotilla/gray-corsairs/captain-isla-stormwright)**"
+		},
+		{
+			"id": "7c1dfe1b6173fcb6",
+			"type": "text",
+			"x": -424,
+			"y": 64,
+			"width": 400,
+			"height": 463,
+			"color": "2",
+			"text": "[![Admiral Lysandra Korvus](../artwork/npc/admiral-lysandra-korvus.png)](../npcs/flotilla/assembly-of-accord/admiral-lysandra-korvus)\n\n**[Admiral Lysandra Korvus](../npcs/flotilla/assembly-of-accord/admiral-lysandra-korvus)**"
+		},
+		{
+			"id": "e0332fc9145064dd",
+			"type": "text",
+			"x": -424,
+			"y": 567,
+			"width": 400,
+			"height": 463,
+			"color": "2",
+			"text": "[![Magister Tertius Vael](../artwork/npc/magister-tertius-vael.png)](../npcs/flotilla/assembly-of-accord/magister-tertius-vael)\n\n**[Magister Tertius Vael](../npcs/flotilla/assembly-of-accord/magister-tertius-vael)**"
+		},
+		{
+			"id": "1acf35668c21c9d4",
+			"type": "file",
+			"file": "Factions/The Assembly of Accord.md",
+			"x": -424,
+			"y": 1070,
+			"width": 400,
+			"height": 400,
+			"color": "2"
+		},
+		{
+			"id": "21952660de535c41",
+			"type": "file",
+			"file": "Factions/The Chelish Expeditionary Authority.md",
+			"x": 16,
+			"y": 1070,
+			"width": 400,
+			"height": 400,
+			"color": "1"
+		},
+		{
+			"id": "a0dcd42ba955b96d",
+			"type": "file",
+			"file": "Factions/The Gray Corsairs.md",
+			"x": 456,
+			"y": 1070,
+			"width": 400,
+			"height": 400,
+			"color": "5"
+		},
+		{
+			"id": "eeb1cd9e7c4ca139",
+			"type": "text",
+			"x": 896,
+			"y": -439,
+			"width": 400,
+			"height": 463,
+			"color": "3",
+			"text": "[![High Healer Valerius](../artwork/npc/high-healer-valerius.png)](../npcs/flotilla/hands-of-the-everlight/high-healer-valerius)\n\n**[High Healer Valerius](../npcs/flotilla/hands-of-the-everlight/high-healer-valerius)**"
+		},
+		{
+			"id": "fda7a3c04be99fde",
+			"type": "text",
+			"x": 1336,
+			"y": -439,
+			"width": 400,
+			"height": 463,
+			"color": "4",
+			"text": "[![Speaker Initiate Kofi Osondu](../artwork/npc/speaker-initiate-kofi-osondu.png)](../npcs/flotilla/the-magaambya/speaker-initiate-kofi-osondu)\n\n**[Speaker Initiate Kofi Osondu](../npcs/flotilla/the-magaambya/speaker-initiate-kofi-osondu)**"
+		},
+		{
+			"id": "9e67f306f93b251c",
+			"type": "file",
+			"file": "Factions/The Hands of the Everlight.md",
+			"x": 896,
+			"y": 1070,
+			"width": 400,
+			"height": 400,
+			"color": "3"
+		},
+		{
+			"id": "dd468feffba737d2",
+			"type": "file",
+			"file": "Factions/The Magaambya.md",
+			"x": 1336,
+			"y": 1070,
+			"width": 400,
+			"height": 400,
+			"color": "4"
+		},
+		{
+			"id": "7edf327cc393ae9f",
+			"x": 1776,
+			"y": 1070,
+			"width": 400,
+			"height": 400,
+			"color": "#0053fa",
+			"type": "file",
+			"file": "Factions/The New Army of Exploration.md"
+		},
+		{
+			"id": "a9bf6844d6cd3f6b",
+			"x": 1776,
+			"y": -439,
+			"width": 400,
+			"height": 463,
+			"color": "#0053fa",
+			"type": "text",
+			"text": "[![Ambassador-Envoy Cassius Orell](../artwork/npc/ambassador-envoy-cassius-orell.png)](../npcs/flotilla/new-army-of-exploration/ambassador-envoy-cassius-orell)\n\n**[Ambassador-Envoy Cassius Orell](../npcs/flotilla/new-army-of-exploration/ambassador-envoy-cassius-orell)**"
+		},
+		{
+			"id": "34b514420f99472e",
+			"x": 1776,
+			"y": -967,
+			"width": 400,
+			"height": 488,
+			"color": "#0053fa",
+			"type": "file",
+			"file": "Factions/index.md",
+			"subpath": "#The New Army of Exploration"
+		},
+		{
+			"id": "436f7d77e14908d3",
+			"type": "file",
+			"file": "Factions/The Red Wake.md",
+			"x": 2216,
+			"y": 1070,
+			"width": 400,
+			"height": 400,
+			"color": "6"
+		},
+		{
+			"id": "1d212590f382f4d5",
+			"x": 2216,
+			"y": -967,
+			"width": 400,
+			"height": 488,
+			"color": "6",
+			"type": "file",
+			"file": "Factions/index.md",
+			"subpath": "#The Red Wake"
+		},
+		{
+			"id": "f97ba51153cd08de",
+			"type": "text",
+			"x": 2216,
+			"y": -439,
+			"width": 400,
+			"height": 463,
+			"color": "6",
+			"text": "[![Captain Serafina Marlowe](../artwork/npc/captain-serafina-marlowe.png)](../npcs/flotilla/the-red-wake/captain-serafina-marlowe)\n\n**[Captain Serafina Marlowe](../npcs/flotilla/the-red-wake/captain-serafina-marlowe)**"
+		},
+		{
+			"id": "ad94e3af1482dc9e",
+			"type": "text",
+			"x": 456,
+			"y": 64,
+			"width": 400,
+			"height": 463,
+			"color": "5",
+			"text": "[![Tidecaller Rowan](../artwork/npc/tidecaller-rowan.png)](../npcs/flotilla/gray-corsairs/tidecaller-rowan)\n\n**[Tidecaller Rowan](../npcs/flotilla/gray-corsairs/tidecaller-rowan)**"
+		},
+		{
+			"id": "e9aad004baed13e7",
+			"type": "text",
+			"x": 896,
+			"y": 64,
+			"width": 400,
+			"height": 463,
+			"color": "3",
+			"text": "[![Champion Elara](../artwork/npc/champion-elara.png)](../npcs/flotilla/hands-of-the-everlight/champion-elara)\n\n**[Champion Elara](../npcs/flotilla/hands-of-the-everlight/champion-elara)**"
+		},
+		{
+			"id": "4dbf34d737ceb186",
+			"type": "text",
+			"x": 2216,
+			"y": 77,
+			"width": 400,
+			"height": 450,
+			"color": "6",
+			"text": "[![Bastian Vale](../artwork/npc/bastian-vale.png)](../npcs/flotilla/the-red-wake/bastian-vale)\n\n**[Bastian Vale](../npcs/flotilla/the-red-wake/bastian-vale)**"
+		},
+		{
+			"id": "4bd948cf0b5badc3",
+			"x": 1776,
+			"y": 77,
+			"width": 400,
+			"height": 463,
+			"color": "#0053fa",
+			"type": "text",
+			"text": "[![Court Magister Valerian Kade](../artwork/npc/court-magister-valerian-kade.png)](../npcs/flotilla/new-army-of-exploration/court-magister-valerian-kade)\n\n**[Court Magister Valerian Kade](../npcs/flotilla/new-army-of-exploration/court-magister-valerian-kade)**"
+		},
+		{
+			"id": "ae471b4da8fcca1a",
+			"type": "text",
+			"x": 896,
+			"y": 567,
+			"width": 400,
+			"height": 463,
+			"color": "3",
+			"text": "[![Adjudicator Kaelen](../artwork/npc/adjudicator-kaelen.png)](../npcs/flotilla/hands-of-the-everlight/adjudicator-kaelen)\n\n**[Adjudicator Kaelen](../npcs/flotilla/hands-of-the-everlight/adjudicator-kaelen)**"
+		},
+		{
+			"id": "b8e18c59188c99f8",
+			"x": 1776,
+			"y": 574,
+			"width": 400,
+			"height": 456,
+			"color": "#0053fa",
+			"type": "text",
+			"text": "[![Surveyor-General Octavia Rhen](../artwork/npc/surveyor-general-octavia-rhen.png)](../npcs/flotilla/new-army-of-exploration/surveyor-general-octavia-rhen)\n\n**[Surveyor-General Octavia Rhen](../npcs/flotilla/new-army-of-exploration/surveyor-general-octavia-rhen)**"
+		}
 	],
-	"edges":[]
+	"edges": []
 }
