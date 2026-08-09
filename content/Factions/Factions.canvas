@@ -3,58 +3,53 @@
 	"nodes": [
 		{
 			"id": "b08474423be58410",
-			"type": "file",
-			"file": "Factions/index.md",
-			"subpath": "#The Assembly of Accord",
+			"type": "text",
 			"x": -424,
 			"y": -967,
 			"width": 400,
 			"height": 488,
-			"color": "2"
+			"color": "2",
+			"text": "## [The Assembly of Accord](../factions/the-assembly-of-accord)\n\n**Leader:** Lord Arbitrator Hadrian Voss  \n**Goal:** Establish lasting international frameworks  \n\n[→ Read more](../factions/the-assembly-of-accord)"
 		},
 		{
 			"id": "e52be183b1f27e46",
-			"type": "file",
-			"file": "Factions/index.md",
-			"subpath": "#The Chelish Expeditionary Authority",
+			"type": "text",
 			"x": 16,
 			"y": -967,
 			"width": 400,
 			"height": 488,
-			"color": "1"
+			"color": "1",
+			"text": "## [The Chelish Expeditionary Authority](../factions/the-chelish-expeditionary-authority)\n\n**Leader:** Armiger-Magistrate Corvain Thorn  \n**Goal:** Claim territory through legal frameworks  \n\n[→ Read more](../factions/the-chelish-expeditionary-authority)"
 		},
 		{
 			"id": "0892d5c463f3caea",
-			"type": "file",
-			"file": "Factions/index.md",
-			"subpath": "#The Gray Corsairs",
+			"type": "text",
 			"x": 456,
 			"y": -967,
 			"width": 400,
 			"height": 488,
-			"color": "5"
+			"color": "5",
+			"text": "## [The Gray Corsairs](../factions/the-gray-corsairs)\n\n**Leader:** Captain Isla Stormwright  \n**Goal:** Prevent colonial exploitation  \n\n[→ Read more](../factions/the-gray-corsairs)"
 		},
 		{
 			"id": "c2ab55b6269aee6d",
-			"type": "file",
-			"file": "Factions/index.md",
-			"subpath": "#The Magaambya",
+			"type": "text",
 			"x": 1336,
 			"y": -967,
 			"width": 400,
 			"height": 488,
-			"color": "4"
+			"color": "4",
+			"text": "## [The Magaambya](../factions/the-magaambya)\n\n**Leader:** Speaker Initiate Kofi Osondu  \n**Goal:** Learn from indigenous magical practice  \n\n[→ Read more](../factions/the-magaambya)"
 		},
 		{
 			"id": "0aafa773cba9b94c",
-			"type": "file",
-			"file": "Factions/index.md",
-			"subpath": "#The Hands of the Everlight",
+			"type": "text",
 			"x": 896,
 			"y": -967,
 			"width": 400,
 			"height": 488,
-			"color": "3"
+			"color": "3",
+			"text": "## [The Hands of the Everlight](../factions/the-hands-of-the-everlight)\n\n**Leader:** High Healer Valerius  \n**Goal:** Combat the plague before more lives are lost  \n\n[→ Read more](../factions/the-hands-of-the-everlight)"
 		},
 		{
 			"id": "5a10f3e3e635a342",
@@ -64,7 +59,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "2",
-			"text": "[![Lord Arbitrator Hadrian Voss](../artwork/npc/lord-arbitrator-hadrian-voss.png)](../npcs/flotilla/assembly-of-accord/lord-arbitrator-hadrian-voss)\n\n**[Lord Arbitrator Hadrian Voss](../npcs/flotilla/assembly-of-accord/lord-arbitrator-hadrian-voss)**"
+			"text": "## [Lord Arbitrator Hadrian Voss](../npcs/flotilla/assembly-of-accord/lord-arbitrator-hadrian-voss)\n\n[![Lord Arbitrator Hadrian Voss](../artwork/npc/lord-arbitrator-hadrian-voss.png)](../npcs/flotilla/assembly-of-accord/lord-arbitrator-hadrian-voss)"
 		},
 		{
 			"id": "a2dcbc9095952c29",
@@ -74,7 +69,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "1",
-			"text": "[![Armiger-Magistrate Corvain Thorn](../artwork/npc/armiger-magistrate-corvain-thorn.png)](../npcs/flotilla/chelish-expeditionary-authority/armiger-magistrate-corvain-thorn)\n\n**[Armiger-Magistrate Corvain Thorn](../npcs/flotilla/chelish-expeditionary-authority/armiger-magistrate-corvain-thorn)**"
+			"text": "## [Armiger-Magistrate Corvain Thorn](../npcs/flotilla/chelish-expeditionary-authority/armiger-magistrate-corvain-thorn)\n\n[![Armiger-Magistrate Corvain Thorn](../artwork/npc/armiger-magistrate-corvain-thorn.png)](../npcs/flotilla/chelish-expeditionary-authority/armiger-magistrate-corvain-thorn)"
 		},
 		{
 			"id": "9a929f06993a591e",
@@ -84,7 +79,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "5",
-			"text": "[![Captain Isla Stormwright](../artwork/npc/captain-isla-stormwright.png)](../npcs/flotilla/gray-corsairs/captain-isla-stormwright)\n\n**[Captain Isla Stormwright](../npcs/flotilla/gray-corsairs/captain-isla-stormwright)**"
+			"text": "## [Captain Isla Stormwright](../npcs/flotilla/gray-corsairs/captain-isla-stormwright)\n\n[![Captain Isla Stormwright](../artwork/npc/captain-isla-stormwright.png)](../npcs/flotilla/gray-corsairs/captain-isla-stormwright)"
 		},
 		{
 			"id": "7c1dfe1b6173fcb6",
@@ -94,7 +89,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "2",
-			"text": "[![Admiral Lysandra Korvus](../artwork/npc/admiral-lysandra-korvus.png)](../npcs/flotilla/assembly-of-accord/admiral-lysandra-korvus)\n\n**[Admiral Lysandra Korvus](../npcs/flotilla/assembly-of-accord/admiral-lysandra-korvus)**"
+			"text": "## [Admiral Lysandra Korvus](../npcs/flotilla/assembly-of-accord/admiral-lysandra-korvus)\n\n[![Admiral Lysandra Korvus](../artwork/npc/admiral-lysandra-korvus.png)](../npcs/flotilla/assembly-of-accord/admiral-lysandra-korvus)"
 		},
 		{
 			"id": "e0332fc9145064dd",
@@ -104,37 +99,37 @@
 			"width": 400,
 			"height": 463,
 			"color": "2",
-			"text": "[![Magister Tertius Vael](../artwork/npc/magister-tertius-vael.png)](../npcs/flotilla/assembly-of-accord/magister-tertius-vael)\n\n**[Magister Tertius Vael](../npcs/flotilla/assembly-of-accord/magister-tertius-vael)**"
+			"text": "## [Magister Tertius Vael](../npcs/flotilla/assembly-of-accord/magister-tertius-vael)\n\n[![Magister Tertius Vael](../artwork/npc/magister-tertius-vael.png)](../npcs/flotilla/assembly-of-accord/magister-tertius-vael)"
 		},
 		{
 			"id": "1acf35668c21c9d4",
-			"type": "file",
-			"file": "Factions/The Assembly of Accord.md",
+			"type": "text",
 			"x": -424,
 			"y": 1070,
 			"width": 400,
 			"height": 400,
-			"color": "2"
+			"color": "2",
+			"text": "## [The Assembly of Accord](../factions/the-assembly-of-accord)\n\nWhere the Hands of the Everlight see a moral imperative demanding immediate action, the Assembly of Accord sees an unprecedented opportunity, a chance to reshape the very foundation of international relations and establish a framework for lasting cooperation that could endure for centuries.\n\n[→ Read more](../factions/the-assembly-of-accord)"
 		},
 		{
 			"id": "21952660de535c41",
-			"type": "file",
-			"file": "Factions/The Chelish Expeditionary Authority.md",
+			"type": "text",
 			"x": 16,
 			"y": 1070,
 			"width": 400,
 			"height": 400,
-			"color": "1"
+			"color": "1",
+			"text": "## [The Chelish Expeditionary Authority](../factions/the-chelish-expeditionary-authority)\n\nWhere The Assembly of Accord uses procedure as a tool for cooperation and The Hands of the Everlight see it as an obstacle to mercy, the **Chelish Expeditionary Authority** appears to wield bureaucracy as a weapon. Representing the interests of the Empire of Cheliax and backed by the disciplined ...\n\n[→ Read more](../factions/the-chelish-expeditionary-authority)"
 		},
 		{
 			"id": "a0dcd42ba955b96d",
-			"type": "file",
-			"file": "Factions/The Gray Corsairs.md",
+			"type": "text",
 			"x": 456,
 			"y": 1070,
 			"width": 400,
 			"height": 400,
-			"color": "5"
+			"color": "5",
+			"text": "## [The Gray Corsairs](../factions/the-gray-corsairs)\n\nWhere The Assembly of Accord sees frameworks and The Chelish Expeditionary Authority sees control, the **Gray Corsairs** see freedom hanging in the balance. Representing the ideals of Andoran and affiliated with the legendary Steel Falcons, they were drawn into this expedition not by opportunity ...\n\n[→ Read more](../factions/the-gray-corsairs)"
 		},
 		{
 			"id": "eeb1cd9e7c4ca139",
@@ -144,7 +139,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "3",
-			"text": "[![High Healer Valerius](../artwork/npc/high-healer-valerius.png)](../npcs/flotilla/hands-of-the-everlight/high-healer-valerius)\n\n**[High Healer Valerius](../npcs/flotilla/hands-of-the-everlight/high-healer-valerius)**"
+			"text": "## [High Healer Valerius](../npcs/flotilla/hands-of-the-everlight/high-healer-valerius)\n\n[![High Healer Valerius](../artwork/npc/high-healer-valerius.png)](../npcs/flotilla/hands-of-the-everlight/high-healer-valerius)"
 		},
 		{
 			"id": "fda7a3c04be99fde",
@@ -154,27 +149,27 @@
 			"width": 400,
 			"height": 463,
 			"color": "4",
-			"text": "[![Speaker Initiate Kofi Osondu](../artwork/npc/speaker-initiate-kofi-osondu.png)](../npcs/flotilla/the-magaambya/speaker-initiate-kofi-osondu)\n\n**[Speaker Initiate Kofi Osondu](../npcs/flotilla/the-magaambya/speaker-initiate-kofi-osondu)**"
+			"text": "## [Speaker Initiate Kofi Osondu](../npcs/flotilla/the-magaambya/speaker-initiate-kofi-osondu)\n\n[![Speaker Initiate Kofi Osondu](../artwork/npc/speaker-initiate-kofi-osondu.png)](../npcs/flotilla/the-magaambya/speaker-initiate-kofi-osondu)"
 		},
 		{
 			"id": "9e67f306f93b251c",
-			"type": "file",
-			"file": "Factions/The Hands of the Everlight.md",
+			"type": "text",
 			"x": 896,
 			"y": 1070,
 			"width": 400,
 			"height": 400,
-			"color": "3"
+			"color": "3",
+			"text": "## [The Hands of the Everlight](../factions/the-hands-of-the-everlight)\n\nDriven by a collective, searing vision of an Arcadian plague, an unknown \"fever that turns the blood to ash\" this sect of Sarenrae’s faithful didn't just join the flotilla, they ignited it. It was their zeal that secured the initial funding and shamed skilled captains into braving the treacherous...\n\n[→ Read more](../factions/the-hands-of-the-everlight)"
 		},
 		{
 			"id": "dd468feffba737d2",
-			"type": "file",
-			"file": "Factions/The Magaambya.md",
+			"type": "text",
 			"x": 1336,
 			"y": 1070,
 			"width": 400,
 			"height": 400,
-			"color": "4"
+			"color": "4",
+			"text": "## [The Magaambya](../factions/the-magaambya)\n\nRepresenting the world's oldest surviving center of magical learning Magaambya, this delegation from the heart of the Mwangi Expanse brings a perspective that many other factions find simultaneously inspiring and deeply uncomfortable.\n\n[→ Read more](../factions/the-magaambya)"
 		},
 		{
 			"id": "7edf327cc393ae9f",
@@ -183,8 +178,8 @@
 			"width": 400,
 			"height": 400,
 			"color": "#0053fa",
-			"type": "file",
-			"file": "Factions/The New Army of Exploration.md"
+			"type": "text",
+			"text": "## [The New Army of Exploration](../factions/the-new-army-of-exploration)\n\nWhere The Assembly of Accord sees an opportunity to build lasting frameworks and The Chelish Expeditionary Authority uses procedure as a weapon of delay, Taldor's **New Army of Exploration** appears caught between nostalgic yearning for past glories and uncomfortable awareness that those glories ...\n\n[→ Read more](../factions/the-new-army-of-exploration)"
 		},
 		{
 			"id": "a9bf6844d6cd3f6b",
@@ -194,7 +189,7 @@
 			"height": 463,
 			"color": "#0053fa",
 			"type": "text",
-			"text": "[![Ambassador-Envoy Cassius Orell](../artwork/npc/ambassador-envoy-cassius-orell.png)](../npcs/flotilla/new-army-of-exploration/ambassador-envoy-cassius-orell)\n\n**[Ambassador-Envoy Cassius Orell](../npcs/flotilla/new-army-of-exploration/ambassador-envoy-cassius-orell)**"
+			"text": "## [Ambassador-Envoy Cassius Orell](../npcs/flotilla/new-army-of-exploration/ambassador-envoy-cassius-orell)\n\n[![Ambassador-Envoy Cassius Orell](../artwork/npc/ambassador-envoy-cassius-orell.png)](../npcs/flotilla/new-army-of-exploration/ambassador-envoy-cassius-orell)"
 		},
 		{
 			"id": "34b514420f99472e",
@@ -203,19 +198,18 @@
 			"width": 400,
 			"height": 488,
 			"color": "#0053fa",
-			"type": "file",
-			"file": "Factions/index.md",
-			"subpath": "#The New Army of Exploration"
+			"type": "text",
+			"text": "## [The New Army of Exploration](../factions/the-new-army-of-exploration)\n\n**Leader:** Triumvirate Leadership  \n**Goal:** Reclaim Taldor's exploratory legacy  \n\n[→ Read more](../factions/the-new-army-of-exploration)"
 		},
 		{
 			"id": "436f7d77e14908d3",
-			"type": "file",
-			"file": "Factions/The Red Wake.md",
+			"type": "text",
 			"x": 2216,
 			"y": 1070,
 			"width": 400,
 			"height": 400,
-			"color": "6"
+			"color": "6",
+			"text": "## [The Red Wake](../factions/the-red-wake)\n\nWhere most factions aboard the flotilla cloak their ambitions in the language of mercy, diplomacy, or international cooperation, **Captain Serafina \"Red Wake\" Marlowe** and her crew make no such pretense. They are here for profit plain, honest, and unapologetic. Some call her a pirate lord. Other...\n\n[→ Read more](../factions/the-red-wake)"
 		},
 		{
 			"id": "1d212590f382f4d5",
@@ -224,9 +218,8 @@
 			"width": 400,
 			"height": 488,
 			"color": "6",
-			"type": "file",
-			"file": "Factions/index.md",
-			"subpath": "#The Red Wake"
+			"type": "text",
+			"text": "## [The Red Wake](../factions/the-red-wake)\n\n**Leader:** Captain Serafina Marlowe  \n**Goal:** Profit and reputation  \n\n[→ Read more](../factions/the-red-wake)"
 		},
 		{
 			"id": "f97ba51153cd08de",
@@ -236,7 +229,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "6",
-			"text": "[![Captain Serafina Marlowe](../artwork/npc/captain-serafina-marlowe.png)](../npcs/flotilla/the-red-wake/captain-serafina-marlowe)\n\n**[Captain Serafina Marlowe](../npcs/flotilla/the-red-wake/captain-serafina-marlowe)**"
+			"text": "## [Captain Serafina Marlowe](../npcs/flotilla/the-red-wake/captain-serafina-marlowe)\n\n[![Captain Serafina Marlowe](../artwork/npc/captain-serafina-marlowe.png)](../npcs/flotilla/the-red-wake/captain-serafina-marlowe)"
 		},
 		{
 			"id": "ad94e3af1482dc9e",
@@ -246,7 +239,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "5",
-			"text": "[![Tidecaller Rowan](../artwork/npc/tidecaller-rowan.png)](../npcs/flotilla/gray-corsairs/tidecaller-rowan)\n\n**[Tidecaller Rowan](../npcs/flotilla/gray-corsairs/tidecaller-rowan)**"
+			"text": "## [Tidecaller Rowan](../npcs/flotilla/gray-corsairs/tidecaller-rowan)\n\n[![Tidecaller Rowan](../artwork/npc/tidecaller-rowan.png)](../npcs/flotilla/gray-corsairs/tidecaller-rowan)"
 		},
 		{
 			"id": "e9aad004baed13e7",
@@ -256,7 +249,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "3",
-			"text": "[![Champion Elara](../artwork/npc/champion-elara.png)](../npcs/flotilla/hands-of-the-everlight/champion-elara)\n\n**[Champion Elara](../npcs/flotilla/hands-of-the-everlight/champion-elara)**"
+			"text": "## [Champion Elara](../npcs/flotilla/hands-of-the-everlight/champion-elara)\n\n[![Champion Elara](../artwork/npc/champion-elara.png)](../npcs/flotilla/hands-of-the-everlight/champion-elara)"
 		},
 		{
 			"id": "4dbf34d737ceb186",
@@ -266,7 +259,7 @@
 			"width": 400,
 			"height": 450,
 			"color": "6",
-			"text": "[![Bastian Vale](../artwork/npc/bastian-vale.png)](../npcs/flotilla/the-red-wake/bastian-vale)\n\n**[Bastian Vale](../npcs/flotilla/the-red-wake/bastian-vale)**"
+			"text": "## [Bastian Vale](../npcs/flotilla/the-red-wake/bastian-vale)\n\n[![Bastian Vale](../artwork/npc/bastian-vale.png)](../npcs/flotilla/the-red-wake/bastian-vale)"
 		},
 		{
 			"id": "4bd948cf0b5badc3",
@@ -276,7 +269,7 @@
 			"height": 463,
 			"color": "#0053fa",
 			"type": "text",
-			"text": "[![Court Magister Valerian Kade](../artwork/npc/court-magister-valerian-kade.png)](../npcs/flotilla/new-army-of-exploration/court-magister-valerian-kade)\n\n**[Court Magister Valerian Kade](../npcs/flotilla/new-army-of-exploration/court-magister-valerian-kade)**"
+			"text": "## [Court Magister Valerian Kade](../npcs/flotilla/new-army-of-exploration/court-magister-valerian-kade)\n\n[![Court Magister Valerian Kade](../artwork/npc/court-magister-valerian-kade.png)](../npcs/flotilla/new-army-of-exploration/court-magister-valerian-kade)"
 		},
 		{
 			"id": "ae471b4da8fcca1a",
@@ -286,7 +279,7 @@
 			"width": 400,
 			"height": 463,
 			"color": "3",
-			"text": "[![Adjudicator Kaelen](../artwork/npc/adjudicator-kaelen.png)](../npcs/flotilla/hands-of-the-everlight/adjudicator-kaelen)\n\n**[Adjudicator Kaelen](../npcs/flotilla/hands-of-the-everlight/adjudicator-kaelen)**"
+			"text": "## [Adjudicator Kaelen](../npcs/flotilla/hands-of-the-everlight/adjudicator-kaelen)\n\n[![Adjudicator Kaelen](../artwork/npc/adjudicator-kaelen.png)](../npcs/flotilla/hands-of-the-everlight/adjudicator-kaelen)"
 		},
 		{
 			"id": "b8e18c59188c99f8",
@@ -296,7 +289,7 @@
 			"height": 456,
 			"color": "#0053fa",
 			"type": "text",
-			"text": "[![Surveyor-General Octavia Rhen](../artwork/npc/surveyor-general-octavia-rhen.png)](../npcs/flotilla/new-army-of-exploration/surveyor-general-octavia-rhen)\n\n**[Surveyor-General Octavia Rhen](../npcs/flotilla/new-army-of-exploration/surveyor-general-octavia-rhen)**"
+			"text": "## [Surveyor-General Octavia Rhen](../npcs/flotilla/new-army-of-exploration/surveyor-general-octavia-rhen)\n\n[![Surveyor-General Octavia Rhen](../artwork/npc/surveyor-general-octavia-rhen.png)](../npcs/flotilla/new-army-of-exploration/surveyor-general-octavia-rhen)"
 		}
 	],
 	"edges": []
