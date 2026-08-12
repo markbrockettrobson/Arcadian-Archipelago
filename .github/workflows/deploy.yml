@@ -33,30 +33,8 @@ jobs:
           cd .quartz
           npm install
 
-      - name: Install canvas-page plugin
-        run: |
-          cd .quartz
-          npx quartz plugin add github:quartz-community/canvas-page
-
-      - name: Copy config files
-        run: |
-          cp quartz.config.ts .quartz/quartz.config.ts
-          cp quartz.layout.ts .quartz/quartz.layout.ts
-
-      - name: Build Quartz site
-        run: |
-          cd .quartz
-          npx quartz build --directory ../content --output ../public
-
-      - name: Fix canvas page sidebar links for GitHub Pages subpath
-        run: |
-          # The canvas-page plugin renders its sidebar using root-relative hrefs (e.g. /rules/)
-          # which break when the site is deployed under a subpath (/Arcadian-Archipelago/).
-          # This step patches all canvas page HTML files so root-relative links get the correct prefix.
-          find ./public -name "*.html" -exec grep -l 'data-frame="canvas"' {} + | \
-          while IFS= read -r file; do
-            sed -i 's|href="/\([a-zA-Z]\)|href="/Arcadian-Archipelago/\1|g' "$file"
-          done
+      - name: Build and validate production links
+        run: npm run test:links
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

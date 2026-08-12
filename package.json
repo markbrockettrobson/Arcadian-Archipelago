@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "The Arcadian Archipelago - Pathfinder 2e Campaign Public Wiki",
   "scripts": {
-    "sync-quartz-config": "cp quartz.config.ts .quartz/quartz.config.ts && cp quartz.layout.ts .quartz/quartz.layout.ts",
+    "sync-quartz-config": "node -e \"require('fs').copyFileSync('quartz.config.yaml', '.quartz/quartz.config.yaml')\"",
     "dev": "npm run sync-quartz-config && cd .quartz && npx quartz build --serve --port 8080 --directory ../content --output ../public",
     "build": "npm run sync-quartz-config && cd .quartz && npx quartz build --directory ../content --output ../public",
+    "build:test": "npm run sync-quartz-config && cd .quartz && npx quartz build --directory ../content --output ../public-production",
+    "test:links": "npm run build:test && node scripts/validate-production-links.mjs public-production",
     "preview": "npm run sync-quartz-config && cd .quartz && npx quartz build --serve --directory ../content --output ../public",
     "update": "cd .quartz && git pull && npm install"
   },
