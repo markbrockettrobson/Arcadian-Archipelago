@@ -31,4 +31,7 @@ cd .quartz && npm install && cd ..
 
 # Serve locally
 npm run dev
+
+# Build as GitHub Pages will and validate repository-subpath links
+npm run test:links
 ```
