@@ -97,7 +97,8 @@ Try to avoid ancestry/heritage combinations that strain setting believability. I
 
 * **All classes are allowed**, including **Exemplar**.
 * For Exemplar specifically: please keep the "fragment of a god" element low-key in play and tone.
-* Playtest classes are case-by-case. Share what you want to use first. Example: Necromancer would need an elemental reskin. We should also agree on how to transition to the released class version later.
+* Playtest classes are case-by-case. Share what you want to use first.  We should also agree on how to transition to the released class version later.
+* Necromancer Dont go crazy making undead its hard to work with party if you do
 
 ### Archetypes
 
